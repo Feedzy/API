@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a84f7d58-a49f-42e3-ab5b-48b346d0c4cc" name="Api" url="http://promo-21.codeur.online">
+        <fileTransfer host="promo-21.codeur.online" port="22" rootFolder="/public/API" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
